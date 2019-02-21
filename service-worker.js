@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/engl131-mp2/precache-manifest.4f9414b2e0f2bdf2272a5160cda0d033.js"
+  "/interactive-fiction/precache-manifest.77d1cc9ceee20ba3ac9d40ef97a81b72.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/engl131-mp2/index.html", {
+workbox.routing.registerNavigationRoute("/interactive-fiction/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

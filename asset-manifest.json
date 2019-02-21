@@ -1,13 +1,13 @@
 {
-  "main.css": "/engl131-mp2/static/css/main.6ee68200.chunk.css",
-  "main.js": "/engl131-mp2/static/js/main.446f2423.chunk.js",
-  "main.js.map": "/engl131-mp2/static/js/main.446f2423.chunk.js.map",
-  "static/js/1.3598c9d4.chunk.js": "/engl131-mp2/static/js/1.3598c9d4.chunk.js",
-  "static/js/1.3598c9d4.chunk.js.map": "/engl131-mp2/static/js/1.3598c9d4.chunk.js.map",
-  "runtime~main.js": "/engl131-mp2/static/js/runtime~main.6674c233.js",
-  "runtime~main.js.map": "/engl131-mp2/static/js/runtime~main.6674c233.js.map",
-  "static/css/main.6ee68200.chunk.css.map": "/engl131-mp2/static/css/main.6ee68200.chunk.css.map",
-  "index.html": "/engl131-mp2/index.html",
-  "precache-manifest.4f9414b2e0f2bdf2272a5160cda0d033.js": "/engl131-mp2/precache-manifest.4f9414b2e0f2bdf2272a5160cda0d033.js",
-  "service-worker.js": "/engl131-mp2/service-worker.js"
+  "main.css": "/interactive-fiction/static/css/main.6ee68200.chunk.css",
+  "main.js": "/interactive-fiction/static/js/main.c87fc594.chunk.js",
+  "main.js.map": "/interactive-fiction/static/js/main.c87fc594.chunk.js.map",
+  "static/js/1.3598c9d4.chunk.js": "/interactive-fiction/static/js/1.3598c9d4.chunk.js",
+  "static/js/1.3598c9d4.chunk.js.map": "/interactive-fiction/static/js/1.3598c9d4.chunk.js.map",
+  "runtime~main.js": "/interactive-fiction/static/js/runtime~main.e35959df.js",
+  "runtime~main.js.map": "/interactive-fiction/static/js/runtime~main.e35959df.js.map",
+  "static/css/main.6ee68200.chunk.css.map": "/interactive-fiction/static/css/main.6ee68200.chunk.css.map",
+  "index.html": "/interactive-fiction/index.html",
+  "precache-manifest.77d1cc9ceee20ba3ac9d40ef97a81b72.js": "/interactive-fiction/precache-manifest.77d1cc9ceee20ba3ac9d40ef97a81b72.js",
+  "service-worker.js": "/interactive-fiction/service-worker.js"
 }
