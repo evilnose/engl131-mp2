@@ -1,0 +1,60 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.btn-container {
+    width: 100%;
+    text-align: center;
+}
+
+.start-btn {
+    border: 0.15em solid black;
+    background-color: white;
+    padding: 0.7em 2.2em;
+    font-size: 1.5em;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 5em;
+    transition: color 300ms, background-color 300ms;
+}
+
+.start-btn:hover {
+    color: white;
+    background-color: black;
+}
+
+.texts {
+    height: 30em;
+}
+
+.oldTexts {
+    color: lightgray;
+}
+
+.choiceList {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.choice {
+    border: solid 1px black;
+    padding-left: 1em;
+    margin-bottom: 1em;
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+.choice:last-child {
+    border-bottom: solid 1px black;
+}
+
+.choice:hover {
+    background-color: #ebf0f3;
+}
+
+.choice:active {
+    background-color: #d9dee1;
+}

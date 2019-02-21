@@ -1,0 +1,29 @@
+[
+    {
+        "id": "entry",
+        "title": "Welcome",
+        "bodyText": "good morning sir",
+        "choices": [
+            {
+                "text": "I choose fire",
+                "id": "fire"
+            },
+            {
+                "text": "I choose shit",
+                "id": "shit"
+            }
+        ]
+    },
+    {
+        "id": "fire",
+        "title": "fireee",
+        "bodyText": "This is fine.",
+        "choices": []
+    },
+    {
+        "id": "shit",
+        "title": "uh oh...",
+        "bodyText": "there is poop everywhere.",
+        "choices": []
+    }
+]
